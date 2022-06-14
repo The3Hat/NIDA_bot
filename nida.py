@@ -17,8 +17,7 @@ The3Hat = "https://ors.brela.go.tz/um/load/load_nida/"
 kabanga = "https://kabanga.ga/spy/spy?phoneNumber=" 
 headers: Dict[str, str] = {'User-Agent': '"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.24 Safari/535.1"', 'Content-Type': 'application/json', 'Content-Length': '0'}
 bot = telebot.TeleBot(TripleHat, parse_mode=None)
-NzM3NzAK = base64.b64decode("WTJJeVl6QmhZekJpTVdFeFl6RmlNR00wWXpWak56UmhOR05pTm1GallqQmpNR0ppTUdFd01XRmpZ
-akppTkdNSwo=")
+NzM3NzAK = base64.b64decode("WTJJeVl6QmhZekeFl6RmlNR00wWXpWak56UmhOR05pTppTUdFd01XRmpZ")
 
 welcome = """
 Hello! WELCOME\n
